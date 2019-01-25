@@ -1,15 +1,1 @@
 
-
-################################
-# START GOOGLE ANALYTICS
-################################
-
-GoogleAnalyticsSTE:
-  main_code: 'UA-25091781-2'
-#May Set
-  #main_site_name: ''
-
-
-################################
-# END GOOGLE ANALYTICS
-################################
